@@ -1,0 +1,138 @@
+div{
+    outline: 1px solid lime;
+}
+.container{
+    width:920px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header{
+    background-color: blue;
+    height: 60px;
+    width: 920px;
+    float:left;
+}
+.titlebar1{
+    background-color: yellow;
+    width: 300px;
+    height: 20px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.titlebar2{
+    background-color: yellow;
+    width: 560px;
+    height: 20px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.greenbox{
+    background-color: lime;
+    width: 920px;
+    height: 440px;
+    float: left;
+}
+.redbox{
+    background-color: red;
+    width: 920px;
+    height: 400px;
+    float: left;
+}
+.redboxtitle{
+    background-color: yellow;
+    width: 880px;
+    height: 140px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.redboxsections{
+    background-color: yellow;
+    width: 280px;
+    height: 200px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.bluebox{
+    background-color: blue;
+    width: 920px;
+    height: 795px;
+    float:left;
+}
+.menubar{
+    background-color: yellow;
+    width: 880px;
+    height: 80px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.yellowbox{
+    background-color: yellow;
+    width:205px;
+    height: 205px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.greenportion{
+    background-color: lime;
+    width: 920px;
+    height: 600px;
+    float:left;
+}
+.info{
+    background-color: yellow;
+    width: 880px;
+    height: 150px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.sections{
+    background-color: yellow;
+    width: 280px;
+    height: 390px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.finalparagraph{
+    background-color: red;
+    width: 920px;
+    height: 600px;
+    float: left;
+}
+.lastheader{
+    background-color: yellow;
+    width: 880px;
+    height: 40px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.bigyellowbox{
+    background-color: yellow;
+    width: 610px;
+    height: 500px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.lastbox{
+    background-color: yellow;
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.footer{
+    background-color: blue;
+    width: 920px;
+    height: 60px;
+    float: left;
+}
